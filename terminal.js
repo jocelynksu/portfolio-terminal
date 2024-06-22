@@ -69,7 +69,7 @@ const directories = {
     experience: [
         '',
         '<bold><cornflowerblue>The Cigna Group (May 2024 - Present)</cornflowerblue></bold>',
-        '<italic><cornflowerblue>Technology Early Career Development Program (TECDP) SWE Intern, Performance Resiliency Eningeering (PRE) Team</cornflowerblue></italic>',
+        '<italic><cornflowerblue>Technology Early Career Development Program (TECDP) SWE Intern, Performance Resiliency Engineering (PRE) Team</cornflowerblue></italic>',
         [
             '   <gainsboro>--> API testing and calling in Python to collect thousands of endpoint metrics to evaluate load-bearing capabilities for company applications.</gainsboro>',
             '   <gainsboro>--> Using pandas and openpyxl Python libraries to format endpoint metric dataframes into a human-readable format to be sent out to those running the load test.</gainsboro>',
@@ -80,7 +80,7 @@ const directories = {
         '<italic><cornflowerblue>Information Technology Intern, Technology Lifecycle Management (TLM) Team</cornflowerblue></italic>',
         [
             '   <gainsboro>--> Created Excel sheet using ServiceNow data to mark and filter through 1000+ Managed File Transfer (MFT) application owners, their active status, and their respective projects.</gainsboro>',
-            '   <gainsboro>--> Created a form on PowerApp containing information on MFT app owners to be sent to 1000+ app owners to verify and update their information to be directly updated on the Excel sheet.</gainsboro>',
+            '   <gainsboro>--> Created PowerApp form containing information on MFT app owners to be sent to 1000+ app owners to verify and update their information to be directly updated on the Excel sheet.</gainsboro>',
             '   <gainsboro>--> Monitored efficiency of internal technologoies by creating Excel pivot tables to track number of applications in dev, test, or QA stages to ensure they do not surpass their end of life date.</gainsboro>',
             '   <gainsboro>--> Worked at Humana\'s Louisville and Simpsonville Data Centers inputting 1500+ systems networking products to SunBird database, and updated inventory excel sheet.</gainsboro>'
         ],
